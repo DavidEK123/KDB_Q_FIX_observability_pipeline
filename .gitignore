@@ -1,0 +1,4 @@
+build/
+test_fix
+*.o
+*.out
