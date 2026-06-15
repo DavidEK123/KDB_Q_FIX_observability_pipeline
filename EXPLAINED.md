@@ -1,8 +1,8 @@
-# Market Data Pipeline — Explained Like You're 15
+# Market Data Pipeline — Explained Like You've Never Seen These Before (Q,KDB,FIX)
 
 ## What is this project?
 
-Imagine you're watching a stock market. Every fraction of a second, people are saying things like:
+Imagine you're watching the stock market. Every fraction of a second, people are saying things like:
 
 > "I want to BUY 200 shares of NVIDIA at $880"
 > "I want to SELL 50 shares of Tesla at $210"
